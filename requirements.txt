@@ -1,0 +1,5 @@
+spotipy
+google-API-python-client
+google-auth
+Google-auth-OAuthlib
+spotify
